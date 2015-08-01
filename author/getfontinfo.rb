@@ -34,7 +34,7 @@ template =<<EOS
 (defvar octicons-alist
 '(
 <% fonts.each do |font| %>
-("<%= font.name %>" . "<%= font.codepoint %>") <% end %>
+("<%= font.name %>" . "<%= font.codepoint %>")<% end %>
 ))
 
 (provide 'octicons-data)
