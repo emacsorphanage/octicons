@@ -1,3 +1,5 @@
+.PHONY: octicons-data.el
+
 data: octicons-data.el
 
 octicons-data.el:
