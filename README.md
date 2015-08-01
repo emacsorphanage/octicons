@@ -14,7 +14,7 @@ Return code point of `font-name`.
 This function is interactive function, so you can call it by `M-x octicons`.
 
 ```lisp
-(octicons "octoface"
+(octicons "octoface")
 ```
 
 ## Variable
