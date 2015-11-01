@@ -1,6 +1,6 @@
 ;;; octicons.el --- octicons utility
 
-;; Copyright (C) 2014 by Syohei YOSHIDA
+;; Copyright (C) 2015 by Syohei YOSHIDA
 
 ;; Author: Syohei YOSHIDA <syohex@gmail.com>
 ;; URL: https://github.com/syohex/emacs-octicons
@@ -21,6 +21,8 @@
 ;; along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ;;; Commentary:
+
+;; octicons. provides utility function for octicons font
 
 ;;; Code:
 

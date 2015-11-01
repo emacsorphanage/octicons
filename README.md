@@ -1,6 +1,16 @@
-# octicons
+# octicons [![melpa badge][melpa-badge]][melpa-link] [![melpa stable badge][melpa-stable-badge]][melpa-stable-link]
 
 Emacs [octicons](http://octicons.github.com/) utility.
+
+
+## Installation
+
+`octicons` is available on [MELPA](https://melpa.org/) and [MELPA stable](https://stable.melpa.org/)
+
+You can install `octicons` with the following command.
+
+<kbd>M-x package-install [RET] octicons [RET]</kbd>
+
 
 ## Requirements
 
@@ -44,3 +54,8 @@ This function is interactive function, so you can call it by `M-x octicons`.
 ```
 
 ![octicons](image/octicons.png)
+
+[melpa-link]: https://melpa.org/#/octicons
+[melpa-stable-link]: https://stable.melpa.org/#/octicons
+[melpa-badge]: https://melpa.org/packages/octicons-badge.svg
+[melpa-stable-badge]: https://stable.melpa.org/packages/octicons-badge.svg
