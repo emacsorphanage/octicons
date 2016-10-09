@@ -53,7 +53,7 @@ This function is interactive function, so you can call it by `M-x octicons`.
              (cl-incf i))))
 ```
 
-![octicons](image/octicons.png)
+![Screenshot of octicons.el](image/octicons.png)
 
 [melpa-link]: https://melpa.org/#/octicons
 [melpa-stable-link]: https://stable.melpa.org/#/octicons
