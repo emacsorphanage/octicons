@@ -29,7 +29,7 @@ This function is interactive function, so you can call it by `M-x octicons`.
 
 ## Variable
 
-#### `octions-alist`
+#### `octicons-alist`
 
 `alist` whose key is font name and value is codepoint.
 
@@ -37,7 +37,7 @@ This function is interactive function, so you can call it by `M-x octicons`.
 
 ```lisp
 ;; Generating following screenshot
-(defun insert-octoicons-fonts ()
+(defun insert-octicons-fonts ()
   (interactive)
   (cl-loop with i = 0
            with colors = '("red" "green" "blue" "yellow" "orange")
